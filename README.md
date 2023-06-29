@@ -1,2 +1,2 @@
 # dumplinkfromhtml
-tool ini berguna untuk mengambil link yang tertanam di atribut href pada &lt;a> html
+tool ini berguna untuk mengumpulkan link di atribut href pada <a> html
