@@ -41,6 +41,8 @@ if gender == 'cewe' or gender == 'Cewe':
             mulai = sanggam1()
             print(mulai)
             break
+        else:
+            print('Harus ganteng>//<')
 elif gender == 'Cowo' or gender == 'cowo':
     print(f'halo bro {name} makasih udah mau pake tools gw mwheheh')
     mulai = sanggam1()
